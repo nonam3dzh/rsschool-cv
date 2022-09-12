@@ -58,5 +58,4 @@ function fibonacci(n) {
 
 P.O.Sukhoi State Technical University of Gomel
 
-***
 
