@@ -48,9 +48,9 @@ function fibonacci(n) {
 
 ### Languages
 
-**Belarusian** - native
-**Russian** - native
-**English** - A1
+* **Belarusian** - native
+* **Russian** - native
+* **English** - A1
 
 ***
 
